@@ -136,9 +136,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - INS
+  - '&mkp LCLK'
   - '&mmv MOVE_UP'
-  - CMENU
+  - '&mkp RCLK'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PG UP
